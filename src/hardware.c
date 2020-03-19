@@ -28,7 +28,7 @@
 
 #define LOG_TAG "bt_hwcfg"
 
-#include <utils/Log.h>
+#include <log/log.h>
 #include <sys/types.h>
 #include <stdbool.h>
 #include <sys/stat.h>
